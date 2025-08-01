@@ -23,7 +23,7 @@ This application allows users to select a date and book available time slots. Bo
   * **JavaScript (ES6)**
 
 Screenshots
-![Description of the image](Screenshot 2025-08-01 110243.png)
+![Description of the image](Screenshot.png)
 
 ## How to Use
 
